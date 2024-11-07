@@ -1,0 +1,1052 @@
+{
+    "Group A": {
+        "Week 1": [
+            {
+                "Team1": "Team5",
+                "Team2": "Team13"
+            },
+            {
+                "Team1": "Team6",
+                "Team2": "Team8"
+            },
+            {
+                "Team1": "Team2",
+                "Team2": "Team12"
+            },
+            {
+                "Team1": "Team1",
+                "Team2": "Team10"
+            },
+            {
+                "Team1": "Team3",
+                "Team2": "Team14"
+            },
+            {
+                "Team1": "Team4",
+                "Team2": "Team7"
+            },
+            {
+                "Team1": "Team9",
+                "Team2": "Team11"
+            }
+        ],
+        "Week 2": [
+            {
+                "Team1": "Team9",
+                "Team2": "Team10"
+            },
+            {
+                "Team1": "Team3",
+                "Team2": "Team11"
+            },
+            {
+                "Team1": "Team4",
+                "Team2": "Team14"
+            },
+            {
+                "Team1": "Team2",
+                "Team2": "Team5"
+            },
+            {
+                "Team1": "Team7",
+                "Team2": "Team8"
+            },
+            {
+                "Team1": "Team1",
+                "Team2": "Team6"
+            },
+            {
+                "Team1": "Team12",
+                "Team2": "Team13"
+            }
+        ],
+        "Week 3": [
+            {
+                "Team1": "Team6",
+                "Team2": "Team8"
+            },
+            {
+                "Team1": "Team2",
+                "Team2": "Team12"
+            },
+            {
+                "Team1": "Team9",
+                "Team2": "Team10"
+            },
+            {
+                "Team1": "Team5",
+                "Team2": "Team14"
+            },
+            {
+                "Team1": "Team3",
+                "Team2": "Team11"
+            },
+            {
+                "Team1": "Team7",
+                "Team2": "Team13"
+            },
+            {
+                "Team1": "Team1",
+                "Team2": "Team4"
+            }
+        ],
+        "Week 4": [
+            {
+                "Team1": "Team1",
+                "Team2": "Team14"
+            },
+            {
+                "Team1": "Team3",
+                "Team2": "Team12"
+            },
+            {
+                "Team1": "Team2",
+                "Team2": "Team11"
+            },
+            {
+                "Team1": "Team5",
+                "Team2": "Team10"
+            },
+            {
+                "Team1": "Team4",
+                "Team2": "Team8"
+            },
+            {
+                "Team1": "Team7",
+                "Team2": "Team9"
+            },
+            {
+                "Team1": "Team6",
+                "Team2": "Team13"
+            }
+        ],
+        "Week 5": [
+            {
+                "Team1": "Team7",
+                "Team2": "Team9"
+            },
+            {
+                "Team1": "Team2",
+                "Team2": "Team3"
+            },
+            {
+                "Team1": "Team1",
+                "Team2": "Team11"
+            },
+            {
+                "Team1": "Team5",
+                "Team2": "Team8"
+            },
+            {
+                "Team1": "Team6",
+                "Team2": "Team14"
+            },
+            {
+                "Team1": "Team4",
+                "Team2": "Team13"
+            },
+            {
+                "Team1": "Team10",
+                "Team2": "Team12"
+            }
+        ],
+        "Week 6": [
+            {
+                "Team1": "Team1",
+                "Team2": "Team13"
+            },
+            {
+                "Team1": "Team7",
+                "Team2": "Team11"
+            },
+            {
+                "Team1": "Team8",
+                "Team2": "Team12"
+            },
+            {
+                "Team1": "Team3",
+                "Team2": "Team6"
+            },
+            {
+                "Team1": "Team5",
+                "Team2": "Team10"
+            },
+            {
+                "Team1": "Team2",
+                "Team2": "Team4"
+            },
+            {
+                "Team1": "Team9",
+                "Team2": "Team14"
+            }
+        ],
+        "Week 7": [
+            {
+                "Team1": "Team7",
+                "Team2": "Team11"
+            },
+            {
+                "Team1": "Team4",
+                "Team2": "Team12"
+            },
+            {
+                "Team1": "Team5",
+                "Team2": "Team6"
+            },
+            {
+                "Team1": "Team10",
+                "Team2": "Team14"
+            },
+            {
+                "Team1": "Team1",
+                "Team2": "Team13"
+            },
+            {
+                "Team1": "Team2",
+                "Team2": "Team9"
+            },
+            {
+                "Team1": "Team3",
+                "Team2": "Team8"
+            }
+        ],
+        "Week 8": [
+            {
+                "Team1": "Team8",
+                "Team2": "Team12"
+            },
+            {
+                "Team1": "Team1",
+                "Team2": "Team11"
+            },
+            {
+                "Team1": "Team4",
+                "Team2": "Team7"
+            },
+            {
+                "Team1": "Team2",
+                "Team2": "Team14"
+            },
+            {
+                "Team1": "Team9",
+                "Team2": "Team10"
+            },
+            {
+                "Team1": "Team6",
+                "Team2": "Team13"
+            },
+            {
+                "Team1": "Team3",
+                "Team2": "Team5"
+            }
+        ],
+        "Week 9": [
+            {
+                "Team1": "Team8",
+                "Team2": "Team14"
+            },
+            {
+                "Team1": "Team9",
+                "Team2": "Team11"
+            },
+            {
+                "Team1": "Team4",
+                "Team2": "Team13"
+            },
+            {
+                "Team1": "Team3",
+                "Team2": "Team10"
+            },
+            {
+                "Team1": "Team1",
+                "Team2": "Team7"
+            },
+            {
+                "Team1": "Team5",
+                "Team2": "Team6"
+            },
+            {
+                "Team1": "Team2",
+                "Team2": "Team12"
+            }
+        ],
+        "Week 10": [
+            {
+                "Team1": "Team4",
+                "Team2": "Team14"
+            },
+            {
+                "Team1": "Team2",
+                "Team2": "Team5"
+            },
+            {
+                "Team1": "Team10",
+                "Team2": "Team12"
+            },
+            {
+                "Team1": "Team1",
+                "Team2": "Team9"
+            },
+            {
+                "Team1": "Team3",
+                "Team2": "Team8"
+            },
+            {
+                "Team1": "Team11",
+                "Team2": "Team13"
+            },
+            {
+                "Team1": "Team6",
+                "Team2": "Team7"
+            }
+        ],
+        "Week 11": [
+            {
+                "Team1": "Team3",
+                "Team2": "Team13"
+            },
+            {
+                "Team1": "Team6",
+                "Team2": "Team14"
+            },
+            {
+                "Team1": "Team8",
+                "Team2": "Team9"
+            },
+            {
+                "Team1": "Team7",
+                "Team2": "Team12"
+            },
+            {
+                "Team1": "Team2",
+                "Team2": "Team4"
+            },
+            {
+                "Team1": "Team1",
+                "Team2": "Team5"
+            },
+            {
+                "Team1": "Team10",
+                "Team2": "Team11"
+            }
+        ],
+        "Week 12": [
+            {
+                "Team1": "Team10",
+                "Team2": "Team12"
+            },
+            {
+                "Team1": "Team1",
+                "Team2": "Team11"
+            },
+            {
+                "Team1": "Team4",
+                "Team2": "Team7"
+            },
+            {
+                "Team1": "Team13",
+                "Team2": "Team14"
+            },
+            {
+                "Team1": "Team2",
+                "Team2": "Team8"
+            },
+            {
+                "Team1": "Team5",
+                "Team2": "Team6"
+            },
+            {
+                "Team1": "Team3",
+                "Team2": "Team9"
+            }
+        ],
+        "Week 13": [
+            {
+                "Team1": "Team10",
+                "Team2": "Team14"
+            },
+            {
+                "Team1": "Team1",
+                "Team2": "Team13"
+            },
+            {
+                "Team1": "Team4",
+                "Team2": "Team9"
+            },
+            {
+                "Team1": "Team3",
+                "Team2": "Team8"
+            },
+            {
+                "Team1": "Team2",
+                "Team2": "Team5"
+            },
+            {
+                "Team1": "Team11",
+                "Team2": "Team12"
+            },
+            {
+                "Team1": "Team6",
+                "Team2": "Team7"
+            }
+        ],
+        "Week 14": [
+            {
+                "Team1": "Team6",
+                "Team2": "Team7"
+            },
+            {
+                "Team1": "Team4",
+                "Team2": "Team13"
+            },
+            {
+                "Team1": "Team9",
+                "Team2": "Team14"
+            },
+            {
+                "Team1": "Team2",
+                "Team2": "Team5"
+            },
+            {
+                "Team1": "Team8",
+                "Team2": "Team12"
+            },
+            {
+                "Team1": "Team1",
+                "Team2": "Team11"
+            },
+            {
+                "Team1": "Team3",
+                "Team2": "Team10"
+            }
+        ]
+    },
+    "Group B": {
+        "Week 1": [
+            {
+                "Team1": "Team16",
+                "Team2": "Team26"
+            },
+            {
+                "Team1": "Team18",
+                "Team2": "Team25"
+            },
+            {
+                "Team1": "Team19",
+                "Team2": "Team22"
+            },
+            {
+                "Team1": "Team15",
+                "Team2": "Team24"
+            },
+            {
+                "Team1": "Team21",
+                "Team2": "Team23"
+            },
+            {
+                "Team1": "Team17",
+                "Team2": "Team27"
+            }
+        ],
+        "Week 2": [
+            {
+                "Team1": "Team18",
+                "Team2": "Team19"
+            },
+            {
+                "Team1": "Team24",
+                "Team2": "Team26"
+            },
+            {
+                "Team1": "Team15",
+                "Team2": "Team16"
+            },
+            {
+                "Team1": "Team21",
+                "Team2": "Team25"
+            },
+            {
+                "Team1": "Team20",
+                "Team2": "Team23"
+            },
+            {
+                "Team1": "Team17",
+                "Team2": "Team27"
+            }
+        ],
+        "Week 3": [
+            {
+                "Team1": "Team16",
+                "Team2": "Team21"
+            },
+            {
+                "Team1": "Team20",
+                "Team2": "Team26"
+            },
+            {
+                "Team1": "Team25",
+                "Team2": "Team27"
+            },
+            {
+                "Team1": "Team15",
+                "Team2": "Team18"
+            },
+            {
+                "Team1": "Team17",
+                "Team2": "Team22"
+            },
+            {
+                "Team1": "Team19",
+                "Team2": "Team24"
+            }
+        ],
+        "Week 4": [
+            {
+                "Team1": "Team16",
+                "Team2": "Team27"
+            },
+            {
+                "Team1": "Team21",
+                "Team2": "Team22"
+            },
+            {
+                "Team1": "Team18",
+                "Team2": "Team26"
+            },
+            {
+                "Team1": "Team20",
+                "Team2": "Team23"
+            },
+            {
+                "Team1": "Team15",
+                "Team2": "Team17"
+            },
+            {
+                "Team1": "Team19",
+                "Team2": "Team25"
+            }
+        ],
+        "Week 5": [
+            {
+                "Team1": "Team15",
+                "Team2": "Team22"
+            },
+            {
+                "Team1": "Team24",
+                "Team2": "Team27"
+            },
+            {
+                "Team1": "Team17",
+                "Team2": "Team26"
+            },
+            {
+                "Team1": "Team23",
+                "Team2": "Team25"
+            },
+            {
+                "Team1": "Team18",
+                "Team2": "Team21"
+            },
+            {
+                "Team1": "Team16",
+                "Team2": "Team19"
+            }
+        ],
+        "Week 6": [
+            {
+                "Team1": "Team15",
+                "Team2": "Team19"
+            },
+            {
+                "Team1": "Team18",
+                "Team2": "Team23"
+            },
+            {
+                "Team1": "Team22",
+                "Team2": "Team26"
+            },
+            {
+                "Team1": "Team25",
+                "Team2": "Team27"
+            },
+            {
+                "Team1": "Team20",
+                "Team2": "Team24"
+            },
+            {
+                "Team1": "Team16",
+                "Team2": "Team17"
+            }
+        ],
+        "Week 7": [
+            {
+                "Team1": "Team16",
+                "Team2": "Team25"
+            },
+            {
+                "Team1": "Team21",
+                "Team2": "Team27"
+            },
+            {
+                "Team1": "Team18",
+                "Team2": "Team23"
+            },
+            {
+                "Team1": "Team17",
+                "Team2": "Team24"
+            },
+            {
+                "Team1": "Team15",
+                "Team2": "Team26"
+            },
+            {
+                "Team1": "Team19",
+                "Team2": "Team22"
+            }
+        ],
+        "Week 8": [
+            {
+                "Team1": "Team15",
+                "Team2": "Team23"
+            },
+            {
+                "Team1": "Team20",
+                "Team2": "Team21"
+            },
+            {
+                "Team1": "Team16",
+                "Team2": "Team22"
+            },
+            {
+                "Team1": "Team25",
+                "Team2": "Team26"
+            },
+            {
+                "Team1": "Team19",
+                "Team2": "Team27"
+            },
+            {
+                "Team1": "Team17",
+                "Team2": "Team24"
+            }
+        ],
+        "Week 9": [
+            {
+                "Team1": "Team18",
+                "Team2": "Team19"
+            },
+            {
+                "Team1": "Team25",
+                "Team2": "Team26"
+            },
+            {
+                "Team1": "Team16",
+                "Team2": "Team17"
+            },
+            {
+                "Team1": "Team20",
+                "Team2": "Team24"
+            },
+            {
+                "Team1": "Team15",
+                "Team2": "Team23"
+            },
+            {
+                "Team1": "Team22",
+                "Team2": "Team27"
+            }
+        ],
+        "Week 10": [
+            {
+                "Team1": "Team22",
+                "Team2": "Team24"
+            },
+            {
+                "Team1": "Team25",
+                "Team2": "Team26"
+            },
+            {
+                "Team1": "Team16",
+                "Team2": "Team20"
+            },
+            {
+                "Team1": "Team23",
+                "Team2": "Team27"
+            },
+            {
+                "Team1": "Team18",
+                "Team2": "Team21"
+            },
+            {
+                "Team1": "Team15",
+                "Team2": "Team17"
+            }
+        ],
+        "Week 11": [
+            {
+                "Team1": "Team17",
+                "Team2": "Team20"
+            },
+            {
+                "Team1": "Team15",
+                "Team2": "Team23"
+            },
+            {
+                "Team1": "Team19",
+                "Team2": "Team24"
+            },
+            {
+                "Team1": "Team21",
+                "Team2": "Team27"
+            },
+            {
+                "Team1": "Team25",
+                "Team2": "Team26"
+            },
+            {
+                "Team1": "Team16",
+                "Team2": "Team22"
+            }
+        ],
+        "Week 12": [
+            {
+                "Team1": "Team18",
+                "Team2": "Team23"
+            },
+            {
+                "Team1": "Team16",
+                "Team2": "Team17"
+            },
+            {
+                "Team1": "Team20",
+                "Team2": "Team22"
+            },
+            {
+                "Team1": "Team19",
+                "Team2": "Team25"
+            },
+            {
+                "Team1": "Team24",
+                "Team2": "Team26"
+            },
+            {
+                "Team1": "Team15",
+                "Team2": "Team27"
+            }
+        ]
+    },
+    "Group C": {
+        "Week 1": [
+            {
+                "Team1": "Team37",
+                "Team2": "Team40"
+            },
+            {
+                "Team1": "Team31",
+                "Team2": "Team36"
+            },
+            {
+                "Team1": "Team32",
+                "Team2": "Team35"
+            },
+            {
+                "Team1": "Team28",
+                "Team2": "Team39"
+            },
+            {
+                "Team1": "Team29",
+                "Team2": "Team34"
+            },
+            {
+                "Team1": "Team33",
+                "Team2": "Team38"
+            }
+        ],
+        "Week 2": [
+            {
+                "Team1": "Team31",
+                "Team2": "Team34"
+            },
+            {
+                "Team1": "Team33",
+                "Team2": "Team40"
+            },
+            {
+                "Team1": "Team28",
+                "Team2": "Team30"
+            },
+            {
+                "Team1": "Team32",
+                "Team2": "Team39"
+            },
+            {
+                "Team1": "Team35",
+                "Team2": "Team38"
+            },
+            {
+                "Team1": "Team29",
+                "Team2": "Team37"
+            }
+        ],
+        "Week 3": [
+            {
+                "Team1": "Team29",
+                "Team2": "Team40"
+            },
+            {
+                "Team1": "Team28",
+                "Team2": "Team35"
+            },
+            {
+                "Team1": "Team32",
+                "Team2": "Team36"
+            },
+            {
+                "Team1": "Team37",
+                "Team2": "Team39"
+            },
+            {
+                "Team1": "Team30",
+                "Team2": "Team31"
+            },
+            {
+                "Team1": "Team34",
+                "Team2": "Team38"
+            }
+        ],
+        "Week 4": [
+            {
+                "Team1": "Team30",
+                "Team2": "Team33"
+            },
+            {
+                "Team1": "Team28",
+                "Team2": "Team38"
+            },
+            {
+                "Team1": "Team32",
+                "Team2": "Team39"
+            },
+            {
+                "Team1": "Team35",
+                "Team2": "Team36"
+            },
+            {
+                "Team1": "Team31",
+                "Team2": "Team37"
+            },
+            {
+                "Team1": "Team34",
+                "Team2": "Team40"
+            }
+        ],
+        "Week 5": [
+            {
+                "Team1": "Team30",
+                "Team2": "Team37"
+            },
+            {
+                "Team1": "Team29",
+                "Team2": "Team31"
+            },
+            {
+                "Team1": "Team33",
+                "Team2": "Team39"
+            },
+            {
+                "Team1": "Team34",
+                "Team2": "Team40"
+            },
+            {
+                "Team1": "Team36",
+                "Team2": "Team38"
+            },
+            {
+                "Team1": "Team28",
+                "Team2": "Team32"
+            }
+        ],
+        "Week 6": [
+            {
+                "Team1": "Team36",
+                "Team2": "Team37"
+            },
+            {
+                "Team1": "Team32",
+                "Team2": "Team35"
+            },
+            {
+                "Team1": "Team29",
+                "Team2": "Team33"
+            },
+            {
+                "Team1": "Team28",
+                "Team2": "Team39"
+            },
+            {
+                "Team1": "Team34",
+                "Team2": "Team38"
+            },
+            {
+                "Team1": "Team30",
+                "Team2": "Team31"
+            }
+        ],
+        "Week 7": [
+            {
+                "Team1": "Team31",
+                "Team2": "Team38"
+            },
+            {
+                "Team1": "Team29",
+                "Team2": "Team32"
+            },
+            {
+                "Team1": "Team35",
+                "Team2": "Team37"
+            },
+            {
+                "Team1": "Team28",
+                "Team2": "Team33"
+            },
+            {
+                "Team1": "Team36",
+                "Team2": "Team40"
+            },
+            {
+                "Team1": "Team30",
+                "Team2": "Team34"
+            }
+        ],
+        "Week 8": [
+            {
+                "Team1": "Team31",
+                "Team2": "Team37"
+            },
+            {
+                "Team1": "Team29",
+                "Team2": "Team36"
+            },
+            {
+                "Team1": "Team32",
+                "Team2": "Team40"
+            },
+            {
+                "Team1": "Team28",
+                "Team2": "Team38"
+            },
+            {
+                "Team1": "Team33",
+                "Team2": "Team34"
+            },
+            {
+                "Team1": "Team35",
+                "Team2": "Team39"
+            }
+        ],
+        "Week 9": [
+            {
+                "Team1": "Team30",
+                "Team2": "Team35"
+            },
+            {
+                "Team1": "Team28",
+                "Team2": "Team31"
+            },
+            {
+                "Team1": "Team32",
+                "Team2": "Team36"
+            },
+            {
+                "Team1": "Team38",
+                "Team2": "Team40"
+            },
+            {
+                "Team1": "Team29",
+                "Team2": "Team34"
+            },
+            {
+                "Team1": "Team37",
+                "Team2": "Team39"
+            }
+        ],
+        "Week 10": [
+            {
+                "Team1": "Team34",
+                "Team2": "Team37"
+            },
+            {
+                "Team1": "Team36",
+                "Team2": "Team38"
+            },
+            {
+                "Team1": "Team31",
+                "Team2": "Team39"
+            },
+            {
+                "Team1": "Team32",
+                "Team2": "Team35"
+            },
+            {
+                "Team1": "Team29",
+                "Team2": "Team33"
+            },
+            {
+                "Team1": "Team28",
+                "Team2": "Team40"
+            }
+        ],
+        "Week 11": [
+            {
+                "Team1": "Team29",
+                "Team2": "Team31"
+            },
+            {
+                "Team1": "Team35",
+                "Team2": "Team38"
+            },
+            {
+                "Team1": "Team33",
+                "Team2": "Team39"
+            },
+            {
+                "Team1": "Team28",
+                "Team2": "Team34"
+            },
+            {
+                "Team1": "Team37",
+                "Team2": "Team40"
+            },
+            {
+                "Team1": "Team30",
+                "Team2": "Team32"
+            }
+        ],
+        "Week 12": [
+            {
+                "Team1": "Team34",
+                "Team2": "Team40"
+            },
+            {
+                "Team1": "Team31",
+                "Team2": "Team37"
+            },
+            {
+                "Team1": "Team29",
+                "Team2": "Team32"
+            },
+            {
+                "Team1": "Team30",
+                "Team2": "Team35"
+            },
+            {
+                "Team1": "Team28",
+                "Team2": "Team33"
+            },
+            {
+                "Team1": "Team38",
+                "Team2": "Team39"
+            }
+        ]
+    }
+}

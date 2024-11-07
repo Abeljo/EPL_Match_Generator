@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Group Matches and Matchweeks</title>
+    <style>
+        /* Basic reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+            font-size: 2.5rem;
+            color: #444;
+        }
+        .group-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+        }
+        .group {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            width: 300px;
+            padding: 15px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .group h2 {
+            font-size: 1.5rem;
+            color: #0073e6;
+            margin-bottom: 10px;
+        }
+        .group p {
+            font-size: 1rem;
+            color: #555;
+            margin-bottom: 15px;
+        }
+        .matchweeks {
+            margin-top: 10px;
+        }
+        .matchweek {
+            background-color: #f0f8ff;
+            border: 1px solid #0073e6;
+            border-radius: 5px;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+        .matchweek h3 {
+            font-size: 1.1rem;
+            color: #004080;
+            margin-bottom: 8px;
+        }
+        .match {
+            font-size: 0.95rem;
+            color: #333;
+            padding: 2px 0;
+            margin: 4px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Group Matches and Matchweeks</h1>
+    <div id="content" class="group-container">
+        <!-- Data from API will populate here -->
+    </div>
+
+    <script>
+        async function fetchData() {
+            try {
+                const response = await fetch('/api/matches'); // Adjust this URL to match your Node.js server endpoint
+                const data = await response.json();
+                displayData(data);
+            } catch (error) {
+                console.error('Error fetching data:', error);
+                document.getElementById('content').innerHTML = '<p>Error loading data. Please try again later.</p>';
+            }
+        }
+    
+        function displayData(data) {
+            const content = document.getElementById('content');
+            content.innerHTML = '';
+    
+            Object.keys(data).forEach(group => {
+                const groupData = data[group];
+                const groupDiv = document.createElement('div');
+                groupDiv.className = 'group';
+                groupDiv.innerHTML = `
+                    <h2>${group}</h2>
+                    <div class="matchweeks">
+                        <h3>Match Weeks</h3>
+                    </div>
+                `;
+    
+                const matchweeksDiv = groupDiv.querySelector('.matchweeks');
+                Object.keys(groupData).forEach(week => {
+                    const weekData = groupData[week];
+                    const matchweekDiv = document.createElement('div');
+                    matchweekDiv.className = 'matchweek';
+                    matchweekDiv.innerHTML = `<h3>${week}</h3>`;
+    
+                    weekData.forEach(match => {
+                        const matchDiv = document.createElement('div');
+                        matchDiv.className = 'match';
+                        matchDiv.textContent = `${match.Team1} vs ${match.Team2}`;
+                        matchweekDiv.appendChild(matchDiv);
+                    });
+    
+                    matchweeksDiv.appendChild(matchweekDiv);
+                });
+    
+                content.appendChild(groupDiv);
+            });
+        }
+    
+        // Fetch data when the page loads
+        window.onload = fetchData;
+    </script>
+</body>
+</html>
